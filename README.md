@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Abramo-Cassano
-- 👀 I’m interested in Ben Tre
-- 🌱 I’m currently learning cypher security
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Bui Van Hung
+- 👀 I’m interested in Image Processing
+- 🌱 I’m currently learning Computer Vision
 - 📫 Contact me by Buihungtpd3@gmai;.com
 
 
